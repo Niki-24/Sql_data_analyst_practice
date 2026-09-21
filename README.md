@@ -5,9 +5,9 @@ sql-data-analyst-practice
    basic_queries.sql
 ### 02-Aggregations
    aggregate_queries.sql
-### 03-Group-By-Having/
+### 03-Group-By-Having
     group_by_having.sql
-### 04-Distinct/
+### 04-Distinct
     distinct_queries.sql
-### 05-Interview-Practice/
+### 05-Interview-Practice
      interview_questions.sql
